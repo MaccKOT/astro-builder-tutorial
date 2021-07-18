@@ -1,4 +1,6 @@
-# Welcome to [Astro](https://astro.build)
+# Build React Apps without JavaScript using [Astro](https://astro.build) - Static Web App Tutorial
+
+Tutorial by [Colby Fayock](https://www.youtube.com/watch?v=-5UPq7Lv9Sc)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
@@ -30,7 +32,7 @@ Any static assets, like images, can be placed in the `public/` directory.
 All commands are run from the root of the project, from a terminal:
 
 | Command         | Action                                      |
-|:----------------|:--------------------------------------------|
+| :-------------- | :------------------------------------------ |
 | `npm install`   | Installs dependencies                       |
 | `npm run start` | Starts local dev server at `localhost:3000` |
 | `npm run build` | Build your production site to `./dist/`     |
